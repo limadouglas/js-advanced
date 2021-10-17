@@ -5,3 +5,4 @@ setTimeout(() => {
 }, 0);
 
 console.log("resultado: ", data);
+
